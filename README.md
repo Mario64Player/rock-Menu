@@ -5,14 +5,13 @@ rock menu is a gorilla tag mod menu
 
 
 # Credits
-[me (menu)](https://github.com/Mario64Player)
-[Blu (Windows gtag modding tutorial)](https://www.youtube.com/@BluTheReal)
+[me (everything)](https://github.com/Mario64Player)
 
 # How it works
 If you've installed a gtag mod menu you already know how to do it
 
 # Instructions
-Windows: [Click here for tutorial](https://youtu.be/HXxQoWLoE7M) [Monke Mod Manager]([https://youtu.be/HXxQoWLoE7M](https://github.com/BzzzThe18th/MonkeModManager))
+Windows: [Click here for tutorial](https://github.com/Mario64Player/rock-Menu/raw/refs/heads/main/2026-04-22%2019-26-45.mp4) [Monke Mod Manager]([https://youtu.be/HXxQoWLoE7M](https://github.com/BzzzThe18th/MonkeModManager))
 
 # Unnecessary things
 It's a universal mod loader cause it uses MelonLoader
