@@ -1,6 +1,4 @@
 # rock-Menu
-rock menu is a gorilla tag mod menu
-
 <a href="#"><img src="178737843.png"></a>
 
 
@@ -11,10 +9,10 @@ rock menu is a gorilla tag mod menu
 If you've installed a gtag mod menu you already know how to do it
 
 # Instructions
-Windows: [Click here for tutorial](https://github.com/Mario64Player/rock-Menu/raw/refs/heads/main/2026-04-22%2019-26-45.mp4) [Monke Mod Manager](https://github.com/BzzzThe18th/MonkeModManager)
+Windows: 
 
 # Unnecessary things
-It's a universal mod loader cause it uses MelonLoader
+It's a Gorilla Tag mod menu
 
 # ❓Questions
 <details>
@@ -27,7 +25,7 @@ It's open source cause i want it to be
 <details>
 <summary>What programming language</summary>
 
-It's python (obviously)
+It's cs (C#)
 
 </details>
 
